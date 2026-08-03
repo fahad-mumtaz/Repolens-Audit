@@ -2,11 +2,6 @@
 
 > Turn any GitHub repository into a premium engineering report card.
 
-![RepoLens AI Dashboard](https://placehold.co/1200x630/0a0a0a/3b82f6?text=RepoLens+AI+Dashboard)
-
-**[Live Demo →](https://repolens.vercel.app)**
-
----
 
 ## What is RepoLens AI?
 
