@@ -1,7 +1,8 @@
+> **Status: Early scaffold — August 2026.** This repository currently contains project configuration and dependencies only. No application source code is committed yet, so the features described below are planned, not working. The setup and deployment instructions have not been verified against a runnable app.
+
 # RepoLens AI
 
 > Turn any GitHub repository into a premium engineering report card.
-
 
 ## What is RepoLens AI?
 
@@ -9,7 +10,7 @@ RepoLens AI is a premium GitHub repository intelligence platform. It analyzes an
 
 This is **not** a code reviewer. It evaluates your repository as a professional product.
 
-## Features
+## Planned features
 
 - **Engineering Health** — Structure, TypeScript, tests, CI/CD, lockfiles
 - **Launch Readiness** — Deployment config, .env docs, demo links, README setup
@@ -53,8 +54,8 @@ This is **not** a code reviewer. It evaluates your repository as a professional 
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/repolens-ai
-cd repolens-ai
+git clone https://github.com/fahad-mumtaz/Repolens-Audit.git
+cd Repolens-Audit
 
 # Install dependencies
 npm install
